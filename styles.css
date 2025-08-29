@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+#image{
+	max-width:400px;
+	object-fit:cover;
+	aspect-ratio:16.9;
+}
+#hh1{
+	max-width:250px;
+	position:relative;
+	top:-200px;
+	left:500px
+	
+}
+.hero{
+	max-width:350px;
+	display:flex-start;
+	justify-content:left;
+	
+	}
+#description{
+	position:relative;
+	top:-200px;
+	left:430px
+}
+button{
+	position:relative;
+	top:-180px;
+	left:550px;
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10%;
+}
